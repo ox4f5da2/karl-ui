@@ -1,0 +1,1 @@
+import{_ as e,o,c,a as s,w as n,d as a,r}from"../app.09918ccc.js";const _={},l={class:"box"};function d(u,f){const t=r("sb-button");return o(),c("div",l,[s(t,null,{default:n(()=>[a("click")]),_:1})])}const b=e(_,[["render",d]]);export{b as default};
