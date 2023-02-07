@@ -1,0 +1,1 @@
+import{o,c,a as n,w as s,d as a,r}from"../app.b15bad60.js";const _={class:"box"},d={__name:"button1",setup(l){function t(){alert("click")}return(i,u)=>{const e=r("sb-button");return o(),c("div",_,[n(e,{onClick:t},{default:s(()=>[a("click")]),_:1})])}}};export{d as default};
